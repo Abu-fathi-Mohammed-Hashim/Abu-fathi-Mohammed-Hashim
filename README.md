@@ -4,7 +4,7 @@ I'm Mohammed Hashim
 Welcome to my GitHub profile! I'm passionate about data,technology,and solving real-world problems using code.
 ### Data Analyst | SQL • Excel • Power BI | Turning Data into Actionable Insights
 
-I'm a Data Analyst with **3 years of experience** transforming raw data into meaningful insights that support strategic business decisions. I specialize in **SQL, Microsoft Excel, and Power BI**, with hands-on experience delivering analytical solutions across various domains.
+I'm a Data Analyst with **3+ years of experience** transforming raw data into meaningful insights that support strategic business decisions. I specialize in **SQL, Microsoft Excel, and Power BI**, with hands-on experience delivering analytical solutions across various domains.
 
 I enjoy solving business problems through data, building interactive dashboards, optimizing SQL queries, and uncovering trends that drive growth and operational efficiency.
 
